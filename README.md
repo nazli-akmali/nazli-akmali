@@ -12,16 +12,9 @@ I'm based in Heidelberg, Germany, and looking for roles in **data analytics** an
 
 ### What I work with
 
-![SQL](https://img.shields.io/badge/SQL-3F6B5A?style=flat-square)
-![R](https://img.shields.io/badge/R-3F6B5A?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3F6B5A?style=flat-square)
-![Stata](https://img.shields.io/badge/Stata-3F6B5A?style=flat-square)
-![Metabase](https://img.shields.io/badge/Metabase-3F6B5A?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-3F6B5A?style=flat-square)
-![Tableau](https://img.shields.io/badge/Tableau-3F6B5A?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-3F6B5A?style=flat-square)
-
-Econometrics · regression modelling · experimental research · A/B testing · KPI tracking · data visualisation
+**Data:** `SQL` `R` `Python` `Stata`<br>
+**BI and visualisation:** `Metabase` `Power BI` `Tableau` `Excel`<br>
+**Methods:** econometrics · regression modelling · experimental research · A/B testing · KPI tracking · data visualisation
 
 ### Highlights
 
