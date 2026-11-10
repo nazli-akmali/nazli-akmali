@@ -2,9 +2,9 @@
 
 ## Hi, I'm Nazli
 
-Data analyst with an M.Sc. in Economics (Behavioral Economics) from Heidelberg University and two years of product analytics in ad tech. I turn product and user data into decisions teams can act on.
+Junior product manager with an M.Sc. in Economics (Behavioral Economics) from Heidelberg University and two years in product management and product analytics in ad tech. I find out what users need, and use data to decide what to build next.
 
-I'm based in Heidelberg, Germany, and looking for roles in **data analytics** and **product analytics**.
+I'm based in Heidelberg, Germany, and looking for a **junior product management** role.
 
 **[Portfolio](https://nazli-akmali.github.io/)** · **[Deutsch](https://nazli-akmali.github.io/de/)** · **[LinkedIn](https://www.linkedin.com/in/nazli-akmali/)** · **[Email](mailto:nazli.akmaly@gmail.com)**
 
@@ -12,16 +12,17 @@ I'm based in Heidelberg, Germany, and looking for roles in **data analytics** an
 
 ### What I work with
 
-**Data:** `SQL` `R` `Python` `Stata`<br>
-**BI and visualisation:** `Metabase` `Power BI` `Tableau` `Excel`<br>
-**Methods:** econometrics · regression modelling · experimental research · A/B testing · KPI tracking · data visualisation
+**Product management:** requirements analysis · user stories and acceptance criteria · backlog prioritisation · QA<br>
+**Analysis and research:** user needs analysis · KPI monitoring · market analysis · A/B testing<br>
+**Tools:** `Jira` `Confluence` `Metabase` `Excel` `SQL` `R`
 
 ### Highlights
 
-- Raised product stability **from 75% to 99%** with automation rules based on an analysis of ad-verification data
+- Raised the ad acceptance and publication rate **from 75% to 90%** through better publisher recommendations and an improved ad-submission bot
+- Turned user needs into user stories and acceptance criteria, and prioritised the Jira backlog with the product lead
 - Built Metabase dashboards that supported targeted sales proposals worth **over €100,000**
 - Developed data-driven publisher evaluation criteria that helped lower cost per click by **10%**
-- Master's thesis: an experiment with 158 participants on risk-taking under social influence, analysed in R
+- Master's thesis: designed and ran an experiment with 158 participants on risk-taking under social influence
 
 ### Projects
 
