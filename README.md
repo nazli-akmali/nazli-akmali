@@ -27,6 +27,7 @@ I'm based in Heidelberg, Germany, and looking for a **junior product management*
 ### Projects
 
 - **[Wardrobe Assistant](https://github.com/nazli-akmali/outfit-recommender)**: picks an outfit for your day from the clothes you own, using your plans and the weather for the hours you're out. A product case study, from discovery to a working MVP.
+- **[Meal Planner](https://nazli-akmali.github.io/meal-recommender/)**: helps choose the next meal from your own recipes, using the ingredients at home, the time you have and recent meals. A product case study, from an exploratory competitor trial to a working prototype ([case study](https://nazli-akmali.github.io/meal-recommender/case-study/) · [live demo](https://nazli-akmali.github.io/meal-recommender/app/)).
 - More on my **[portfolio](https://nazli-akmali.github.io/)**.
 
 ### Languages
